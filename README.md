@@ -1,7 +1,7 @@
 # organize-music
 A quick and (very) unoptimized program i made to reorganize music folders
 
-Let's pretend you have these files, which contain all you music.
+Let's pretend you have these files, which contain all your music.
 Every file mp3 file is inside a directory for the album that is in a directory for the artist.
 ```
 
