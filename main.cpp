@@ -11,7 +11,7 @@
 #include <iterator>
 
 //#define SOURCE "/home/yassir/Documents/programs/smloadr/DOWNLOADS/"
-
+//Made this in a handful of minutes, please don't expect much
 struct Song
 {
 	std::string name;
